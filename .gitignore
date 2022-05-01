@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/corpus/chinese-snli/cnsd_snli_v1.0.dev.jsonl
+/corpus/chinese-snli/cnsd_snli_v1.0.test.jsonl
+/corpus/chinese-snli/cnsd_snli_v1.0.train.jsonl
+/corpus/chinese-snli-c/dev.txt
+/corpus/chinese-snli-c/test.txt
+/corpus/chinese-snli-c/train.txt
+/corpus/LCQMC_S/dev.txt
+/corpus/LCQMC_S/test.txt
+/corpus/LCQMC_S/train.txt
+/corpus/LCQMC/dev.txt
+/corpus/LCQMC/test.txt
+/corpus/LCQMC/train.txt
